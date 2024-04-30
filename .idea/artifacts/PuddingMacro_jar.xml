@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PuddingMacro:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PuddingMacro_jar</output-path>
+    <root id="archive" name="PuddingMacro.jar">
+      <element id="module-output" name="PuddingMacro" />
+    </root>
+  </artifact>
+</component>

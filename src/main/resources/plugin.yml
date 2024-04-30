@@ -1,0 +1,9 @@
+main: com.puddingkc.PuddingMacro
+name: PuddingMacro
+version: 1.0
+api-version: 1.20
+author: 'PuddingKC'
+commands:
+  macro:
+    description: 插件主命令
+    permission: puddingmacro.admin
